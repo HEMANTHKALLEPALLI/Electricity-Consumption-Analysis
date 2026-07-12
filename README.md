@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project Overview
 
 ## Introduction
@@ -124,7 +123,3 @@ The project successfully analyzed electricity consumption data using Oracle SQL 
 # ✅ Conclusion
 
 This project demonstrates how Oracle SQL, Tableau, and Flask can be integrated to transform raw electricity consumption data into meaningful visual insights. The developed dashboard makes it easier to compare electricity usage across states and regions and understand yearly trends. The Flask integration provides a simple web interface for accessing the dashboard and story, making the project user-friendly and effective for data analysis.
-=======
-# Electricity-Consumption-Analysis
-Electricity is one of the most important resources for industries, businesses, and households. Every day, a huge amount of electricity consumption data is generated across different states and regions. analyzing this data manually is time-consuming and difficult
->>>>>>> cacaca30cd82c4732d8a959ccea94c8e101a9fc6
